@@ -1,0 +1,1 @@
+# Implementação própria simples de Bagging e Boosting com base em RegressorDecisionTree do sklearn. Pequena demonstração de funcionamento e algumas características, com uso de base de dados boston_price de Sklearn.
